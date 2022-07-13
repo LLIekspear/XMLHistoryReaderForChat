@@ -87,3 +87,4 @@ void MainWindow::on_selectXMLButton_clicked() {
 MainWindow::~MainWindow() {
     delete ui;
 }
+
